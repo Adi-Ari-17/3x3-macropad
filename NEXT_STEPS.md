@@ -26,11 +26,15 @@ cp /path/to/your/3x3_macropad.kicad_pro kicad/
 7. Test preview: Upload to [jlcpcb.com](https://jlcpcb.com) to verify layers
 
 ## 3. Export Case STEP File
-1. Open Fusion360 design file
+**Note:** You already have `case/iKeyMacroPadCase.stl` imported.
+
+For Hack Club submission, convert the STL to STEP format:
+1. Open `case/iKeyMacroPadCase.stl` in Fusion360
 2. Right-click model → **Save as**
 3. Select **STEP (.step)** format
 4. Save to: `case/case_assembly.step`
 5. Verify dimensions in mm
+6. Keep both `.stl` (for printing reference) and `.step` (for submission)
 
 ## 4. Customize Firmware (Optional)
 Edit `firmware/keymaps/default/keymap.c` to customize keys:
