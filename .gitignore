@@ -1,0 +1,51 @@
+# KiCad
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+*.net
+*.dsn
+*.d
+*.o
+*.a
+*.so
+*.elf
+*.hex
+*.uf2
+
+# Fusion360
+*.ipch
+*.backup
+*.tmp
+*.lck
+__pycache__/
+
+# QMK
+.build/
+*.elf
+*.hex
+*.map
+*.o
+*.a
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Environment
+.env
+.env.local

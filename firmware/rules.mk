@@ -1,0 +1,11 @@
+# MCU Settings
+MCU = RP2040
+BOARD = SEEED_XIAO_RP2040
+
+# Features
+MATRIX_COLS = 3
+MATRIX_ROWS = 3
+CUSTOM_MATRIX = lite
+
+# Compiler Flags
+CONVERT_TO = rp2040_ce

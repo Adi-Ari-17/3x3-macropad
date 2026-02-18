@@ -1,0 +1,7 @@
+Quantity,Component,Value,Supplier,Notes
+9,Hotswap Socket,Kailh MX CPG135101D09,AliExpress/Amazon,Millmax or similar
+9,Diode,1N4148WS,AliExpress/JLCPCB,SOD-123 SMD
+1,Microcontroller,Seeeduino XIAO RP2040,Seeed Studio,RP2040 variant
+1,USB Connector,USB Type-C Receptacle,JLCPCB,USB-C 16-pin
+1,Case (printed),PLA/PETG 3D print,Printing Legion,0.2mm layer height
+9,Cherry MX Switches,Various,MechKeys/Astro,Hot-swappable compatible

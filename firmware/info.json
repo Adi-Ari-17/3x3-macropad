@@ -1,0 +1,39 @@
+{
+  "manufacturer": "YourName",
+  "keyboard_name": "3x3 Macropad",
+  "maintainer": "yourgithub",
+  "url": "https://github.com/yourgithub/3x3-macropad",
+  "usb": {
+    "vid": "0x1234",
+    "pid": "0x5678"
+  },
+  "matrix_pins": {
+    "rows": ["GP27", "GP26", "GP25"],
+    "cols": ["GP6", "GP7", "GP8"]
+  },
+  "diode_direction": "COL2ROW",
+  "processor": "RP2040",
+  "bootloader": "rp2040",
+  "features": {
+    "bootmagic": false,
+    "command": false,
+    "console": false,
+    "extrakey": true,
+    "mousekey": false
+  },
+  "layouts": {
+    "LAYOUT_ortho_3x3": {
+      "layout": [
+        {"x": 0, "y": 0},
+        {"x": 1, "y": 0},
+        {"x": 2, "y": 0},
+        {"x": 0, "y": 1},
+        {"x": 1, "y": 1},
+        {"x": 2, "y": 1},
+        {"x": 0, "y": 2},
+        {"x": 1, "y": 2},
+        {"x": 2, "y": 2}
+      ]
+    }
+  }
+}

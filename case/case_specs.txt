@@ -1,0 +1,25 @@
+3x3 Macropad Case Specifications
+=================================
+
+Print Settings:
+- Material: PLA or PETG
+- Layer Height: 0.2mm (0.1mm for details)
+- Infill: 20%
+- Support: Yes (for overhangs >45°)
+- Wall Thickness: 1.5mm
+- No raft needed
+
+Dimensions (approx):
+- Length: ~70mm
+- Width: ~70mm
+- Height: 13mm (3mm base + 10mm walls)
+
+Mounting:
+- Heatset inserts: M3 (4.7mm holes, 4mm deep)
+- Screw type: M3x4mm
+- Count: 4 mounting points
+
+Post-Processing:
+- Remove supports carefully
+- Sand edges with 180–220 grit
+- Optional: Paint or coat with clear gloss finish
