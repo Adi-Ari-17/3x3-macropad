@@ -9,6 +9,13 @@
 #define MATRIX_COLS 3
 
 /* Key Matrix Pins */
+// Mapped from your KiCad schematic PAxx labels to RP2040 GP# pins:
+// Column0 (PA02) -> GP6
+// Column1 (PA4)  -> GP7
+// Column2 (PA10) -> GP8
+// Row0    (PA11) -> GP27
+// Row1    (PA8)  -> GP26
+// Row2    (PA9)  -> GP25
 #define MATRIX_ROW_PINS { GP27, GP26, GP25 }
 #define MATRIX_COL_PINS { GP6, GP7, GP8 }
 
