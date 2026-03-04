@@ -7,7 +7,6 @@ A simple, open-source 9-key macro pad powered by Seeeduino XIAO RP2040.
 - QMK firmware with layer support
 - USB-C charging & programming
 - 3D-printable sandwich case
-- Hot-swappable MX switches
 
 ## Build Time
 Estimated: 30–45 minutes
